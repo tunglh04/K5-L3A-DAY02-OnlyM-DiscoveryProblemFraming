@@ -1,56 +1,40 @@
-# Team
+# Team — OnlyM
 
-> Điền file này trên repo chung do nhóm trưởng fork. Nhóm điền phần **Thông tin nhóm** và **Thành viên**. Mỗi người tự điền phần của mình trong **Cá nhân**. Không copy file này sang repo khác.
+> **Bài mẫu.** Phân công và đóng góp do AI xây dựng cho kịch bản đi cùng hai báo cáo; Le Hoang Tung chưa xác nhận đây là lịch sử hoạt động thực tế.
 
 ## Thông tin nhóm
 
-- Tên nhóm:
-- Candidate problem nhóm chọn (1 câu):
-- Quyết định cuối (Go / Not Yet / No-Go):
+- Tên nhóm: OnlyM
+- Lớp: L3A
+- Quy mô: một thành viên; Le Hoang Tung cho biết nhóm một người được phép.
+- Candidate problem: Học viên chưa có cách đối chiếu yêu cầu từ nhiều file hướng dẫn nên tốn thời gian lập kế hoạch và có thể bỏ sót mục.
+- Quyết định cuối trong tình huống: **Go** cho pilot checklist có link nguồn, **No AI**.
 
 ## Thành viên
 
 | STT | Họ và tên | MSSV | Vai trò trong nhóm | Tài khoản GitHub |
 |---:|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-
-Không ghi email hay số điện thoại vào bảng này, vì repo có thể để public.
-
-Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối thời gian, ghi chép, người phản biện chính, phụ trách kiểm chứng (phỏng vấn/survey), phụ trách research, vẽ quy trình, viết Problem Statement.
+| 1 | Le Hoang Tung | 2A202603359 | Điều phối, kiểm chứng, research, vẽ quy trình, viết báo cáo | tunglh04 |
 
 ## Phân công theo checkpoint
 
 | Checkpoint | Người chính | Người hỗ trợ | Sản phẩm |
 |---|---|---|---|
-| CP3 — Hội tụ nhóm | | | Cluster, cây OST, bảng chấm điểm |
-| CP4 — Kiểm chứng | | | Assumption map, snapshot hoặc survey |
-| CP4 — Research | | | Bảng research có link |
-| CP5 — Quy trình trước/sau | | | Quy trình + bảng before/after |
-| CP5 — Problem Statement v0 | | | Problem Statement v0 |
-| CP6 — Mức can thiệp + Problem Statement v1 | | | Ma trận, AI Canvas, eval, Problem Statement v1 |
-| CP6 — Quyết định | | | 4 rủi ro + Go/Not Yet/No-Go |
+| CP3 — Hội tụ | Le Hoang Tung | Tự phản biện | Cluster, OST, bảng chọn trong [mục 2](report/team/group_report.md#2-hội-tụ-nhóm-cp3) |
+| CP4 — Kiểm chứng | Le Hoang Tung | Ba người được hỏi trong kịch bản | Assumption map và ba [snapshot](report/assets/cp4-interview-snapshot-1.md) |
+| CP4 — Research | Le Hoang Tung | AI gợi nguồn; học viên mở link | Bảng nguồn trong [mục 3.3](report/team/group_report.md#33-research-giải-pháp-đã-có) |
+| CP5 — Quy trình và v0 | Le Hoang Tung | AI phản biện metric | Luồng trước/sau, before/after, v0 |
+| CP6 — Mức can thiệp, v1, quyết định | Le Hoang Tung | AI hỗ trợ so phương án | Ma trận 4 mức, eval, v1, 4 rủi ro, Go |
+| CP7 — Reflection | Le Hoang Tung | Không có | [Báo cáo cá nhân mục 6](report/individual/2A202603359_LeHoangTung.md#6-reflection-cp7) |
 
 ## Cá nhân
 
-Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `HoVaTen-MSSV`.
+### LeHoangTung-2A202603359
 
-### HoVaTen-MSSV
+**Phần việc phụ trách:** chọn candidate, kiểm chứng, research, thiết kế quy trình và ra quyết định.
 
-**Phần việc phụ trách:**
+**Đóng góp trong bài mẫu:** tách 42 phút lập kế hoạch thành 5 bước; tổng hợp ba snapshot gồm cả tín hiệu phản bác; so bốn mức can thiệp và chọn checklist No AI cho pilot.
 
--
-
-**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
-
--
-
-**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
-
--
+**Bằng chứng trong bộ bài mẫu:** [báo cáo nhóm](report/team/group_report.md), [báo cáo cá nhân](report/individual/2A202603359_LeHoangTung.md), ba snapshot CP4 và [bảng kiểm CP6](report/assets/cp6-submission-checklist.md).
 
 **Điều mình học được từ phần nhóm:**
-
--
